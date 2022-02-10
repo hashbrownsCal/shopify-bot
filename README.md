@@ -5,7 +5,7 @@ This project is a work in progress. Its main goal is to automate the checkout pr
 
 ### Usage
 Edit the fields under "USER SETTINGS" in the .py file. Keywords should be defined as a list, with each word seperated by a comma and placed within quotation marks. Some formatting is required for certain fields, as stated within the .py file.
-https://www.timefactors.com/products.json?page=1
+* https://www.timefactors.com/products.json?page=1
 https://www.timefactors.com/products.json?page=2
 https://www.timefactors.com/products.json?page=3
 Need to change "varients" to accept color versions
